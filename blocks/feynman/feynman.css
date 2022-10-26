@@ -1,0 +1,7 @@
+.feynman {
+  background: fixed url("../../images/feynman.png") no-repeat, #f2f2f2;
+  /* background-size: 867px 637px; */
+  background-size: 867px 637px;
+  width: 100%;
+  padding-top: 100px;
+}
