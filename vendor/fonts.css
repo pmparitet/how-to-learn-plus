@@ -10,3 +10,9 @@
   font-family: "Inter";
   font-weight: bold;
 }
+@font-face {
+  src: url(../fonts/Inter-SemiBold.woff2) format("woff2"),
+    url(../fonts/Inter-SemiBold.woff) format("woff");
+  font-family: "Inter";
+  font-weight: 600;
+}
